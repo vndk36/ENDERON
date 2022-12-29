@@ -3,6 +3,7 @@ My modification of an Creality ENDER3 V2 to have a VORON Stealthburner toolhead.
 - Stealthburner mounting plate to use with CW2
 - X motor cover to route the wires going from the toolhead to the main control board
 - Cable anchor to hold the cables coming from the X motor down along the Z axis
+- Mount for a PINDA V2 probe as it's supper small
 
 NOTE: I strongly suggest having a double Z motor mod on your ENDER to avoid X beam slag due to the toolhead weight increase.
 
